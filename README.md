@@ -7,3 +7,5 @@ Vjezba iz PIS-a
 jado jadni
 
 jadnice jadni
+
+misli li su svi da neozbiljan si ti
